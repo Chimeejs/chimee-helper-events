@@ -1,2 +1,2 @@
-# chimee-helper-events
-base events binder for chimee
+# chimee-helper
+utils of chimee
