@@ -103,7 +103,6 @@ test('CustEvent - target', () => {
 const _targetObj = { name: 'test_assign_name' };
 const _custEvent = new event.CustEvent(_targetObj, true);
 test('CustEvent - target assign', () => {
-  console.log(_targetObj.on)
   expect(_targetObj.on).toBeInstanceOf(Function);
   expect(_targetObj.once).toBeInstanceOf(Function);
   expect(_targetObj.off).toBeInstanceOf(Function);
