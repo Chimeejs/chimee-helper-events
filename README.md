@@ -4,7 +4,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/Chimeejs/chimee-helper-events/master.svg?style=flat-square)](https://coveralls.io/github/Chimeejs/chimee-helper-events?branch=master)
 [![npm](https://img.shields.io/npm/v/chimee-helper-events.svg?colorB=brightgreen&style=flat-square)](https://www.npmjs.com/package/chimee-helper-events)
 [![dependency Status](https://david-dm.org/Chimeejs/chimee-helper-events.svg)](https://david-dm.org/Chimeejs/chimee-helper-events)
-[![devDependency Status](https://david-dm.org/Chimeejs/chimee-helper-events/dev-status.svg)](https://david-dm.org/Chimeejs/chimee-helper-events?type=dev)
+[![devDependency Status](https://david-dm.org/Chimeejs/chimee-helper-events/dev-status.svg)](https://david-dm.org/Chimeejs/chimee-helper-events?type=dev) [![Greenkeeper badge](https://badges.greenkeeper.io/Chimeejs/chimee-helper-events.svg)](https://greenkeeper.io/)
 
 events handler of chimee
 
